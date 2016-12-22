@@ -62,7 +62,6 @@ public abstract class GLCameraCoreActivity extends FragmentActivity implements C
         setupCameraFragment(startCameraPositionUseBackCamera() ? Camera2BasicSetup.CAMERA_PRIMARY : Camera2BasicSetup.CAMERA_FORWARD);
         setupInteraction();
         //setup permissions for M or start normally
-        //setup permissions for M or start normally
         if (PermissionsHelper.isMorHigher())
             setupPermissions();
 
