@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="surface_v1_picture" type="id" />
+    <item name="surface_v1_info" type="id" />
+    <item name="surface_v1_control" type="id" />
+    <item name="surface_v1_base" type="id" />
+    <item name="surface_v2_base" type="id" />
+</resources>

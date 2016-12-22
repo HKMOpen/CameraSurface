@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Library</string>
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="intro_message">This is the demo.</string>
+    <string name="stop_recording">stop recording.</string>
+    <string name="start_recording">start recording.</string>
+    <string name="hfr_mode_120fps">Slow motion is set to 120 fps</string>
+    <string name="hfr_mode_240fps">Slow motion is set to 240 fps</string>
+    <string name="hfr_mode_off">Slow motion is off</string>
+    <string name="hdr_plus_auto_desc">HDR Plus auto</string>
+    <string name="dirty_lens_popup_text">"Lens smudges aren't always easy to see, and they can come from fingerprints, oil or dirt.
+    Clean your lens for better photo quality."</string>
+    <string name="dirty_lens_popup_title">Is your lens clean?</string>
+    <string name="snackbar_dirty_lens">Lens may be dirty</string>
+    <string name="pref_camera_dirty_lens_title">Show dirty lens warning</string>
+
+</resources>
